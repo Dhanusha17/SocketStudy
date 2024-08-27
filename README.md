@@ -1,5 +1,6 @@
 ## Ex.No:1a  			Study of Socket Programming
-
+Name:DHANUSHA K
+REG NO:212223040034
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
